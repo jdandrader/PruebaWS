@@ -1,0 +1,12 @@
+/*
+{
+    "/WebAPI/*": {
+        "target":"https://localhost:44329/",
+        "secure": false,
+        "logLevel":"debug"
+    
+    }
+}
+
+
+*/
